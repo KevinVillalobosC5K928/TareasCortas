@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Conversor
+comment1.params=resultado\ unidadOriginal\ unidadNueva
+comment1.target=Conversor(double,\ java.lang.String,\ java.lang.String)
+comment2.params=metros
+comment2.target=Conversor\ metrosAKilometros(double)
+comment3.params=kilometros
+comment3.target=Conversor\ kilometrosAMillas(double)
+comment4.params=millas
+comment4.target=Conversor\ millasAKilometros(double)
+comment5.params=metros
+comment5.target=Conversor\ metrosAYardas(double)
+comment6.params=valorOriginal
+comment6.target=void\ mostrarResultado(double)
+comment7.params=
+comment7.target=double\ getResultado()
+comment8.params=
+comment8.target=java.lang.String\ getUnidadOriginal()
+comment9.params=
+comment9.target=java.lang.String\ getUnidadNueva()
+numComments=10
